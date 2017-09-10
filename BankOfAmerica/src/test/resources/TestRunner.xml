@@ -2,12 +2,12 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name = "BankOfAmerica Automation" parallel="tests">
 
-    <parameter name="browser" value="chrome"/>
+    <parameter name="browser" value="Chrome"/>
     <parameter name="url" value="https://www.bankofamerica.com/"/>
 
     <test name="BankOfAmerica Automation">
         <classes>
-            <class name="home.HomePage"/>
+            <class name="home.TestingBankingFunctionalities"/>
         </classes>
     </test>
 

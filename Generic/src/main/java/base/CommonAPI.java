@@ -25,16 +25,16 @@ public class CommonAPI {
     public WebDriver get_Local_Driver(String browser) {
 
         if(browser.equalsIgnoreCase("Firefox")) {
-            System.setProperty("webdriver.gecko.driver", "C:\\Users\\Local Account\\Desktop\\AutomationGroupTwo\\Generic\\driver\\geckodriver.exe");
+            System.setProperty("webdriver.gecko.driver", "../Generic/driver/geckodriver.exe");
             driver = new FirefoxDriver();
         } else if (browser.equalsIgnoreCase("Chrome")) {
-            System.setProperty("webdriver.chrome.driver", "C:\\Users\\Local Account\\Desktop\\AutomationGroupTwo\\Generic\\driver\\chromedriver.exe");
+            System.setProperty("webdriver.chrome.driver", "../Generic/driver/chromedriver.exe");
             driver = new ChromeDriver();
         } else if (browser.equalsIgnoreCase("IE")) {
-            System.setProperty("webdriver.IE.driver", "C:\\Users\\Local Account\\Desktop\\AutomationGroupTwo\\Generic\\driver\\IEDriverServer.exe");
+            System.setProperty("webdriver.IE.driver", "../Generic/driver/IEDriverServer.exe");
             driver = new InternetExplorerDriver();
         } else if (browser.equalsIgnoreCase("Opera")) {
-            System.setProperty("webdriver.opera.driver", "C:\\Users\\Local Account\\Desktop\\AutomationGroupTwo\\Generic\\driver\\operadriver.exe");
+            System.setProperty("webdriver.opera.driver", "../Generic/driver/operadriver.exe");
             driver = new OperaDriver();
         } else {
             System.err.println("ERROR: Choose from: Firefox/Chrome/IE/Opera.");

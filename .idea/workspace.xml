@@ -2,14 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dee7c12d-4b33-43f4-bbef-388d2f8626cd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/pom.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_64.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/BankingList/BusinessChecking.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/BankingList/CDs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/BankingList/Checking.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/BankingList/ExplorePopularFeatures.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/BankingList/MobileBanking.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/BankingList/MoreProducts.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/BankingList/OnlineBanking.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/BankingList/PreferredRewards.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/BankingList/Savings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/BankingList/StudentBanking.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/CreditCardsList/CardsToBuildOrRebuildCredit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/CreditCardsList/CashRewardsCards.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/CreditCardsList/CheckForCustomizedOffers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/CreditCardsList/FeaturedCreditCards.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/CreditCardsList/LowerInterestRateCards.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/CreditCardsList/ShopAllCreditCards.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/CreditCardsList/SmallBusinessCards.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/CreditCardsList/TravelAndAirlineRewardsCards.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/InvestmentsList/FiveTwoNineAndCollegeSavingsPlans.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/InvestmentsList/IRAAnd401kRollovers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/InvestmentsList/InvestmentProducts.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/InvestmentsList/MerrillLynchWealthManagement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/InvestmentsList/Retirement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/InvestmentsList/StreamlineInvesting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/InvestmentsList/USTrustPrivateWealthManagement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/InvestmentsList/WhyMerrillEdge.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LearningList/AutoOwnership.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LearningList/BetterMoneyHabits.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LearningList/CollegePlanning.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LearningList/HandlingDebt.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LearningList/HomeOwnership.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LearningList/ManagingCredit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LearningList/PlanningForLifeEvents.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LearningList/PrivacyAndSecurity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LearningList/RetirementPlanning.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LearningList/SavingAndBudgeting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LoansList/AutoLoans.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LoansList/BusinessLoans.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LoansList/FindAHome.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LoansList/HomeEquity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LoansList/Mortgage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LoansList/Refinance.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/test/java/home/TestingBankingFunctionalities.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/test/java/home/TestingCreditCardsFunctionalities.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/test/java/home/TestingInvestmentsFunctionalities.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/test/java/home/TestingLearningFunctionalities.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BankOfAmerica/src/test/java/home/TestingLoanFunctionalities.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BankOfAmerica/src/test/java/home/HomePage.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BankOfAmerica/src/main/java/dropDownList/Banking.java" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/BankingList/Banking.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BankOfAmerica/src/main/java/dropDownList/CreditCards.java" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/CreditCardsList/CreditCards.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BankOfAmerica/src/main/java/dropDownList/Investments.java" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/InvestmentsList/Investments.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BankOfAmerica/src/main/java/dropDownList/Learning.java" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LearningList/Learning.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BankOfAmerica/src/main/java/dropDownList/Loans.java" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LoansList/Loans.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/BankOfAmerica.iml" afterPath="$PROJECT_DIR$/BankOfAmerica/BankOfAmerica.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/src/main/java/dropDownList/Banking.java" afterPath="$PROJECT_DIR$/BankOfAmerica/src/main/java/dropDownList/Banking.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/src/test/java/home/HomePage.java" afterPath="$PROJECT_DIR$/BankOfAmerica/src/test/java/home/HomePage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BankOfAmerica/src/test/resources/TestRunner.xml" afterPath="$PROJECT_DIR$/BankOfAmerica/src/test/resources/TestRunner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,7 +73,64 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TestRunner.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/test/resources/TestRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestingBankingFunctionalities.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/test/java/home/TestingBankingFunctionalities.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Checking.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/BankingList/Checking.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="65" column="21" lean-forward="true" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Savings.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/BankingList/Savings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="51" column="18" lean-forward="false" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonAPI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="526">
+              <caret line="46" column="9" lean-forward="false" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,12 +155,25 @@
         <option value="$PROJECT_DIR$/BankOfAmerica/TestRunner.xml" />
         <option value="$PROJECT_DIR$/BankOfAmerica/src/main/java/helper/PageFactory.java" />
         <option value="$PROJECT_DIR$/BankOfAmerica/src/main/java/dropDownList/CreditCards.java" />
-        <option value="$PROJECT_DIR$/BankOfAmerica/src/test/resources/TestRunner.xml" />
-        <option value="$PROJECT_DIR$/BankOfAmerica/src/test/java/home/HomePage.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/MassMutual/pom.xml" />
-        <option value="$PROJECT_DIR$/BankOfAmerica/src/main/java/dropDownList/Banking.java" />
         <option value="$PROJECT_DIR$/BankOfAmerica/pom.xml" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/src/main/java/dropDownList/Banking.java" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/src/main/java/dropDownList/BankingRelated/Banking.java" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/src/main/java/BankingList/ExplorePopularFeatures.java" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/src/main/java/BankingList/Banking.java" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/src/main/java/CreditCardsList/CreditCards.java" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/src/main/java/InvestmentsList/Investments.java" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/src/main/java/LearningList/Learning.java" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/src/main/java/LoansList/Loans.java" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/src/main/java/LearningList/AutoOwnership.java" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/src/main/java/BankingList/Checking.java" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/src/test/resources/TestRunner.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/src/test/java/home/HomePage.java" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/BankingList/Checking.java" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/src/test/java/home/CallingOnClasses.java" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/src/test/java/home/TestingBankingFunctionalities.java" />
+        <option value="$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/BankingList/Savings.java" />
       </list>
     </option>
   </component>
@@ -71,10 +190,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="683" />
+    <option name="width" value="683" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -107,7 +225,79 @@
             <path>
               <item name="AutomationGroupTwo" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutomationGroupTwo" type="462c0819:PsiDirectoryNode" />
-              <item name="MassMutual" type="462c0819:PsiDirectoryNode" />
+              <item name="BankOfAmerica" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationGroupTwo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationGroupTwo" type="462c0819:PsiDirectoryNode" />
+              <item name="BankOfAmerica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationGroupTwo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationGroupTwo" type="462c0819:PsiDirectoryNode" />
+              <item name="BankOfAmerica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationGroupTwo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationGroupTwo" type="462c0819:PsiDirectoryNode" />
+              <item name="BankOfAmerica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationGroupTwo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationGroupTwo" type="462c0819:PsiDirectoryNode" />
+              <item name="BankOfAmerica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="PersonalTab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationGroupTwo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationGroupTwo" type="462c0819:PsiDirectoryNode" />
+              <item name="BankOfAmerica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="PersonalTab" type="462c0819:PsiDirectoryNode" />
+              <item name="BankingList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationGroupTwo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationGroupTwo" type="462c0819:PsiDirectoryNode" />
+              <item name="BankOfAmerica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationGroupTwo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationGroupTwo" type="462c0819:PsiDirectoryNode" />
+              <item name="BankOfAmerica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationGroupTwo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationGroupTwo" type="462c0819:PsiDirectoryNode" />
+              <item name="BankOfAmerica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomationGroupTwo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomationGroupTwo" type="462c0819:PsiDirectoryNode" />
+              <item name="BankOfAmerica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -130,6 +320,9 @@
       <recent name="C:\Users\Local Account\Desktop\GroupTwo\AutomationGroupTwo\BankOfAmerica" />
       <recent name="C:\Users\Local Account\Desktop\AutomationGroupTwo\Generic\driver" />
       <recent name="C:\Users\Local Account\Desktop\AutomationGroupTwo\Generic" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dropDownList.BankingRelated" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Local Account\Desktop\AutomationGroupTwo\BankOfAmerica\src\test\resources" />
@@ -176,7 +369,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="HomePage.Test_Checking" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestingBankingFunctionalities.Test_Checking" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="home.*" />
@@ -188,7 +381,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="home" />
-      <option name="MAIN_CLASS_NAME" value="home.HomePage" />
+      <option name="MAIN_CLASS_NAME" value="home.TestingBankingFunctionalities" />
       <option name="METHOD_NAME" value="Test_Checking" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
@@ -290,13 +483,13 @@
       <listeners />
     </configuration>
     <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.HomePage.Test_Checking" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.TestingBankingFunctionalities.Test_Checking" />
       <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/Local Account/Desktop/AutomationGroupTwo/BankOfAmerica/src/test/resources/TestRunner.xml" />
     </list>
     <recent_temporary>
       <list size="2">
         <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/Local Account/Desktop/AutomationGroupTwo/BankOfAmerica/src/test/resources/TestRunner.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.HomePage.Test_Checking" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.TestingBankingFunctionalities.Test_Checking" />
       </list>
     </recent_temporary>
   </component>
@@ -346,39 +539,46 @@
       <option name="project" value="LOCAL" />
       <updated>1505046068745</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Readded BankOfAmerica">
+      <created>1505055426182</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1505055426182</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_Local_Account_Desktop_AutomationGroupTwo_BankOfAmerica_src_test_resources_TestRunner_xml - 2017.09.09 at 21h 35m 11s.xml">
+    <history-entry file="C__Users_Local_Account_Desktop_AutomationGroupTwo_BankOfAmerica_src_test_resources_TestRunner_xml - 2017.09.10 at 13h 18m 15s.xml">
       <configuration name="C:/Users/Local Account/Desktop/AutomationGroupTwo/BankOfAmerica/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Local_Account_Desktop_AutomationGroupTwo_BankOfAmerica_src_test_resources_TestRunner_xml - 2017.09.09 at 21h 35m 54s.xml">
+    <history-entry file="C__Users_Local_Account_Desktop_AutomationGroupTwo_BankOfAmerica_src_test_resources_TestRunner_xml - 2017.09.10 at 13h 21m 24s.xml">
       <configuration name="C:/Users/Local Account/Desktop/AutomationGroupTwo/BankOfAmerica/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Local_Account_Desktop_AutomationGroupTwo_BankOfAmerica_src_test_resources_TestRunner_xml - 2017.09.09 at 21h 36m 26s.xml">
+    <history-entry file="C__Users_Local_Account_Desktop_AutomationGroupTwo_BankOfAmerica_src_test_resources_TestRunner_xml - 2017.09.10 at 13h 22m 39s.xml">
       <configuration name="C:/Users/Local Account/Desktop/AutomationGroupTwo/BankOfAmerica/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Local_Account_Desktop_AutomationGroupTwo_BankOfAmerica_src_test_resources_TestRunner_xml - 2017.09.09 at 22h 08m 27s.xml">
+    <history-entry file="C__Users_Local_Account_Desktop_AutomationGroupTwo_BankOfAmerica_src_test_resources_TestRunner_xml - 2017.09.10 at 13h 23m 46s.xml">
       <configuration name="C:/Users/Local Account/Desktop/AutomationGroupTwo/BankOfAmerica/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Local_Account_Desktop_AutomationGroupTwo_BankOfAmerica_src_test_resources_TestRunner_xml - 2017.09.09 at 22h 08m 51s.xml">
+    <history-entry file="C__Users_Local_Account_Desktop_AutomationGroupTwo_BankOfAmerica_src_test_resources_TestRunner_xml - 2017.09.10 at 14h 02m 23s.xml">
       <configuration name="C:/Users/Local Account/Desktop/AutomationGroupTwo/BankOfAmerica/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Local_Account_Desktop_AutomationGroupTwo_BankOfAmerica_src_test_resources_TestRunner_xml - 2017.09.10 at 09h 27m 01s.xml">
+    <history-entry file="C__Users_Local_Account_Desktop_AutomationGroupTwo_BankOfAmerica_src_test_resources_TestRunner_xml - 2017.09.10 at 14h 03m 57s.xml">
       <configuration name="C:/Users/Local Account/Desktop/AutomationGroupTwo/BankOfAmerica/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HomePage_Test_Checking - 2017.09.09 at 21h 21m 24s.xml">
-      <configuration name="HomePage.Test_Checking" configurationId="TestNG" />
+    <history-entry file="C__Users_Local_Account_Desktop_AutomationGroupTwo_BankOfAmerica_src_test_resources_TestRunner_xml - 2017.09.10 at 14h 07m 51s.xml">
+      <configuration name="C:/Users/Local Account/Desktop/AutomationGroupTwo/BankOfAmerica/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HomePage_Test_Checking - 2017.09.09 at 21h 23m 21s.xml">
-      <configuration name="HomePage.Test_Checking" configurationId="TestNG" />
+    <history-entry file="C__Users_Local_Account_Desktop_AutomationGroupTwo_BankOfAmerica_src_test_resources_TestRunner_xml - 2017.09.10 at 14h 08m 03s.xml">
+      <configuration name="C:/Users/Local Account/Desktop/AutomationGroupTwo/BankOfAmerica/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HomePage_Test_Checking - 2017.09.09 at 21h 26m 44s.xml">
-      <configuration name="HomePage.Test_Checking" configurationId="TestNG" />
+    <history-entry file="C__Users_Local_Account_Desktop_AutomationGroupTwo_BankOfAmerica_src_test_resources_TestRunner_xml - 2017.09.10 at 14h 08m 43s.xml">
+      <configuration name="C:/Users/Local Account/Desktop/AutomationGroupTwo/BankOfAmerica/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HomePage_Test_Checking - 2017.09.10 at 09h 25m 41s.xml">
-      <configuration name="HomePage.Test_Checking" configurationId="TestNG" />
+    <history-entry file="C__Users_Local_Account_Desktop_AutomationGroupTwo_BankOfAmerica_src_test_resources_TestRunner_xml - 2017.09.10 at 14h 29m 29s.xml">
+      <configuration name="C:/Users/Local Account/Desktop/AutomationGroupTwo/BankOfAmerica/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -386,32 +586,32 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28477904" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2913257" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19515885" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31942216" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934534" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -422,7 +622,8 @@
     <MESSAGE value="Modified Generic" />
     <MESSAGE value="Modified Generic &amp; Added One Module" />
     <MESSAGE value="Worked on Module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Worked on Module" />
+    <MESSAGE value="Readded BankOfAmerica" />
+    <option name="LAST_COMMIT_MESSAGE" value="Readded BankOfAmerica" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -431,283 +632,419 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/a/src/test/resources/TestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a/src/test/java/home/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a/src/main/java/dropDownList/Banking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2227">
-          <caret line="131" column="1" lean-forward="false" selection-start-line="131" selection-start-column="1" selection-end-line="131" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MassMutual/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a/src/test/resources/TestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a/src/test/java/home/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a/src/main/java/dropDownList/Banking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2125">
-          <caret line="131" column="1" lean-forward="true" selection-start-line="131" selection-start-column="1" selection-end-line="131" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a/src/test/resources/TestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a/src/test/java/home/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a/src/main/java/dropDownList/Banking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1343">
-          <caret line="79" column="25" lean-forward="false" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a/src/test/resources/TestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a/src/test/java/home/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a/src/main/java/dropDownList/Banking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" column="25" lean-forward="false" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SocialMedia/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/HealthCare/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/Facebook/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/HealthFirst/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="764">
-          <caret line="45" column="40" lean-forward="false" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/helper/PageFactory.java" />
-    <entry file="file://$PROJECT_DIR$/a/src/main/java/dropDownList/Loans.java">
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/BankingList/PreferredRewards.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/a/src/main/java/dropDownList/Investments.java">
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/BankingList/ExplorePopularFeatures.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/a/src/main/java/dropDownList/Learning.java">
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/CreditCardsList/CreditCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/CreditCardsList/FeaturedCreditCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/CreditCardsList/CashRewardsCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/CreditCardsList/TravelAndAirlineRewardsCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/CreditCardsList/LowerInterestRateCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/CreditCardsList/CardsToBuildOrRebuildCredit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/CreditCardsList/SmallBusinessCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/CreditCardsList/ShopAllCreditCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/CreditCardsList/CheckForCustomizedOffers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/InvestmentsList/Investments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/LearningList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LearningList/Learning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LoansList/Loans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LoansList/Mortgage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/a/src/main/java/dropDownList/CreditCards.java">
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LoansList/Refinance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LoansList/HomeEquity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LoansList/AutoLoans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LoansList/BusinessLoans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LoansList/FindAHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/InvestmentsList/StreamlineInvesting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/InvestmentsList/WhyMerrillEdge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/InvestmentsList/Retirement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/InvestmentsList/IRAAnd401kRollovers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/InvestmentsList/FiveTwoNineAndCollegeSavingsPlans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="46" lean-forward="false" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/InvestmentsList/InvestmentProducts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/InvestmentsList/MerrillLynchWealthManagement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/InvestmentsList/USTrustPrivateWealthManagement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="43" lean-forward="false" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LearningList/HandlingDebt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LearningList/SavingAndBudgeting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LearningList/PlanningForLifeEvents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LearningList/RetirementPlanning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LearningList/BetterMoneyHabits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LearningList/PrivacyAndSecurity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LearningList/ManagingCredit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LearningList/CollegePlanning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LearningList/HomeOwnership.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/LearningList/AutoOwnership.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/BankingList/BusinessChecking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a/src/test/java/home/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        <state relative-caret-position="526">
+          <caret line="46" column="9" lean-forward="false" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a/src/test/resources/TestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a/src/main/java/dropDownList/Banking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2227">
-          <caret line="131" column="1" lean-forward="false" selection-start-line="131" selection-start-column="1" selection-end-line="131" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankOfAmerica/resources/TestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/dropDownList/CreditCards.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/dropDownList/Investments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/dropDownList/Learning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/dropDownList/Loans.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/dropDownList/Banking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1547">
-          <caret line="91" column="27" lean-forward="true" selection-start-line="91" selection-start-column="27" selection-end-line="91" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/test/java/home/HomePage.java">
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/test/java/home/TestingCreditCardsFunctionalities.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <caret line="2" column="46" lean-forward="false" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/test/java/home/TestingLearningFunctionalities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="43" lean-forward="false" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/test/java/home/TestingLoanFunctionalities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="39" lean-forward="false" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/test/java/home/TestingInvestmentsFunctionalities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="46" lean-forward="false" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/test/java/home/CallingOnClasses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="10" selection-end-column="87" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/test/resources/TestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BankOfAmerica/pom.xml">
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/BankingList/Banking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="934">
+          <caret line="123" column="25" lean-forward="true" selection-start-line="123" selection-start-column="25" selection-end-line="123" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/BankingList/Checking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="65" column="21" lean-forward="true" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/test/java/home/TestingBankingFunctionalities.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="49" lean-forward="false" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
-          <folding />
+          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MassMutual/pom.xml">
+    <entry file="file://$PROJECT_DIR$/BankOfAmerica/src/main/java/PersonalTab/BankingList/Savings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-          <folding />
+        <state relative-caret-position="255">
+          <caret line="51" column="18" lean-forward="false" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

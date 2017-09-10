@@ -1,4 +1,4 @@
-package dropDownList;
+package PersonalTab.BankingList;
 
 import base.CommonAPI;
 import org.openqa.selenium.WebElement;
@@ -18,10 +18,10 @@ public class Banking extends CommonAPI {
     WebElement List_Banking_Checking;
 
     @FindBy(how = How.ID, using = "zipCodeModalInputField")
-    WebElement Banking_Checking_ZipCode;
+    WebElement General_Banking_ZipCode;
 
     @FindBy(how = How.ID, using = "go-button-zip-modal")
-    WebElement Banking_Checking_Go;
+    WebElement General_Banking_Go;
 
     //// Savings ////
     @FindBy(how = How.NAME, using = "savings")
@@ -66,30 +66,34 @@ public class Banking extends CommonAPI {
         Thread.sleep(2000);
     }
 
+    public void Enter_Zip_And_Go() throws InterruptedException {
+            General_Banking_ZipCode.sendKeys("11373");
+            General_Banking_Go.click();
+            Thread.sleep(6000);
+    }
+
     public void Checking() throws InterruptedException {
         Banking_Button();
         List_Banking_Checking.click();
-        Banking_Checking_ZipCode.sendKeys("11373");
-        Banking_Checking_Go.click();
-        Thread.sleep(2000);
+        Enter_Zip_And_Go();
     }
 
     public void Savings() throws InterruptedException {
         Banking_Button();
         List_Banking_Savings.click();
-        Thread.sleep(2000);
+        Enter_Zip_And_Go();
     }
 
     public void CDs() throws InterruptedException {
         Banking_Button();
         List_Banking_CDs.click();
-        Thread.sleep(2000);
+        Enter_Zip_And_Go();
     }
 
     public void Business_Checking() throws InterruptedException {
         Banking_Button();
         List_Banking_Business_Checking.click();
-        Thread.sleep(2000);
+        Enter_Zip_And_Go();
     }
 
     public void Student_Banking() throws InterruptedException {
